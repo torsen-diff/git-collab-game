@@ -1,5 +1,5 @@
 # Moduł interfejs
 
-Odpowiedzialny: NIEPRZYDZIELONY
-Stan: NIEGOTOWY
-Opis zmiany: BRAK
+Odpowiedzialny: torsen-diff
+Stan: GOTOWY
+Opis zmiany: wprowadzenie responsywności interfejsu
