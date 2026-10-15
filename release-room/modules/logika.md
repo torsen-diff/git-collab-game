@@ -1,5 +1,5 @@
 # Moduł logika
 
-Odpowiedzialny: NIEPRZYDZIELONY
-Stan: NIEGOTOWY
-Opis zmiany: BRAK
+Odpowiedzialny: torsen-diff2
+Stan: GOTOWY
+Opis zmiany: dodano walidację danych wejściowych.
